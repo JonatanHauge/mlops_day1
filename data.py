@@ -1,9 +1,6 @@
 import torch
-<<<<<<< Updated upstream
 import math
-=======
 import numpy as np
->>>>>>> Stashed changes
 
 def mnist():
     """Return train and test dataloaders for MNIST."""
