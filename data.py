@@ -1,4 +1,5 @@
 import torch
+import numpy
 
 def mnist():
     """Return train and test dataloaders for MNIST."""
